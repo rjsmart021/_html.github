@@ -1,0 +1,18 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#download_button{
+    width: 200px;
+    height: 40px;
+    background-color: blueviolet;
+    padding:  10px 25px;
+    color: white;
+    font-size: 25px;
+    border-radius: 8px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+h1{
+    color: pink
+}
